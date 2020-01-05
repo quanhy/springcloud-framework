@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6eee03fc-a60f-4d00-b241-dbba918f1eb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-cloud-admin-feign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-admin-feign/src/main/java/com/example/feign/AdminFeignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-admin-feign/src/main/java/com/example/feign/controller/FeignAdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-admin-feign/src/main/java/com/example/feign/service/FeignAdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-admin-feign/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka/src/main/java/com/example/ribbon/eureka/EurekaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-service-admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-service-admin/src/main/java/com/example/ribbon/service/ServiceAdminApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-service-admin/src/main/java/com/example/ribbon/service/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-service-admin/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-web-admin-ribbon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-web-admin-ribbon/src/main/java/com/example/ribbon/WebAdminRibbonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-web-admin-ribbon/src/main/java/com/example/ribbon/com/example/ribbon/controller/AdminRibbonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-web-admin-ribbon/src/main/java/com/example/ribbon/com/example/ribbon/service/AdminRibbonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-web-admin-ribbon/src/main/java/com/example/ribbon/config/RestTemplateConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-web-admin-ribbon/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../software/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../software/apache-maven-3.3.9/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VvvXQzufUq7WX1Wi1fH8LpQBzr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-admin-feign/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-cloud-admin-feign/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WebAdminRibbonApplication (1)">
+    <configuration name="AdminFeignApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.feign.AdminFeignApplication" />
+      <module name="spring-cloud-admin-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.feign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication (1)" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ribbon.eureka.EurekaApplication" />
+      <module name="spring-cloud-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ribbon.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAdminApplication (1)" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ribbon.service.ServiceAdminApplication" />
+      <module name="spring-cloud-service-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ribbon.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAdminApplication" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.service.ServiceAdminApplication" />
+      <module name="spring-cloud-service-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAdminRibbonApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ribbon.WebAdminRibbonApplication" />
+      <module name="spring-cloud-web-admin-ribbon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ribbon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAdminRibbonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebAdminRibbonApplication" />
+      <module name="spring-cloud-web-admin-ribbon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ServiceAdminApplication" />
+      <item itemvalue="Application.WebAdminRibbonApplication" />
+      <item itemvalue="Application.ServiceAdminApplication (1)" />
+      <item itemvalue="Application.WebAdminRibbonApplication (1)" />
+      <item itemvalue="Application.EurekaApplication (1)" />
+      <item itemvalue="Application.AdminFeignApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdminFeignApplication" />
+        <item itemvalue="Application.WebAdminRibbonApplication (1)" />
+        <item itemvalue="Application.ServiceAdminApplication (1)" />
+        <item itemvalue="Application.EurekaApplication (1)" />
+        <item itemvalue="Application.WebAdminRibbonApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eee03fc-a60f-4d00-b241-dbba918f1eb1" name="Default Changelist" comment="" />
+      <created>1578146422225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578146422225</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578204446245">
+      <screen x="51" y="23" width="1869" height="1057" />
+    </state>
+    <state x="450" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/309.1103.1440.877/51.23.1869.1057@51.23.1869.1057" timestamp="1578204446245" />
+    <state x="815" y="452" key="Github.ShareDialog" timestamp="1578146557497">
+      <screen x="51" y="23" width="1869" height="1057" />
+    </state>
+    <state x="815" y="452" key="Github.ShareDialog/309.1103.1440.877/51.23.1869.1057@51.23.1869.1057" timestamp="1578146557497" />
+    <state x="711" y="263" key="Github.UntrackedFilesDialog" timestamp="1578146564811">
+      <screen x="51" y="23" width="1869" height="1057" />
+    </state>
+    <state x="711" y="263" key="Github.UntrackedFilesDialog/309.1103.1440.877/51.23.1869.1057@51.23.1869.1057" timestamp="1578146564811" />
+    <state width="1827" height="396" key="GridCell.Tab.0.bottom" timestamp="1578205823129">
+      <screen x="51" y="23" width="1869" height="1057" />
+    </state>
+    <state width="1827" height="396" key="GridCell.Tab.0.bottom/309.1103.1440.877/51.23.1869.1057@51.23.1869.1057" timestamp="1578205823129" />
+    <state width="1827" height="396" key="GridCell.Tab.0.center" timestamp="1578205823129">
+      <screen x="51" y="23" width="1869" height="1057" />
+    </state>
+    <state width="1827" height="396" key="GridCell.Tab.0.center/309.1103.1440.877/51.23.1869.1057@51.23.1869.1057" timestamp="1578205823129" />
+    <state width="1827" height="396" key="GridCell.Tab.0.left" timestamp="1578205823128">
+      <screen x="51" y="23" width="1869" height="1057" />
+    </state>
+    <state width="1827" height="396" key="GridCell.Tab.0.left/309.1103.1440.877/51.23.1869.1057@51.23.1869.1057" timestamp="1578205823128" />
+    <state width="1827" height="396" key="GridCell.Tab.0.right" timestamp="1578205823129">
+      <screen x="51" y="23" width="1869" height="1057" />
+    </state>
+    <state width="1827" height="396" key="GridCell.Tab.0.right/309.1103.1440.877/51.23.1869.1057@51.23.1869.1057" timestamp="1578205823129" />
+    <state x="473" y="133" key="SettingsEditor" timestamp="1578201681486">
+      <screen x="51" y="23" width="1869" height="1057" />
+    </state>
+    <state x="473" y="133" key="SettingsEditor/309.1103.1440.877/51.23.1869.1057@51.23.1869.1057" timestamp="1578201681486" />
+    <state x="379" y="249" key="new project wizard" timestamp="1578201735331">
+      <screen x="51" y="23" width="1869" height="1057" />
+    </state>
+    <state x="379" y="249" key="new project wizard/309.1103.1440.877/51.23.1869.1057@51.23.1869.1057" timestamp="1578201735331" />
+  </component>
+</project>
